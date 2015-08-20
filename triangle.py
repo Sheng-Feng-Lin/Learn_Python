@@ -7,3 +7,6 @@ for i in xrange(4, 0, -1): # for loop 4, 3, 2, 1.
     for j in xrange(i*2-1):
         print '*',
     print 
+
+for i in xrange(1,8,2):
+    print('*'*i).center(7)
