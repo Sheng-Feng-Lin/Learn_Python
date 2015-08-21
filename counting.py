@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-s = 'count the characters here.'
+s = 'Please count the characters here.'
 d = {}
 
 for c in s:
